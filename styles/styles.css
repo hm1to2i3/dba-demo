@@ -17,6 +17,7 @@
   --background-color: white;
   --light-color: #eee;
   --dark-color: #ccc;
+  --dark-color2: #666;
   --text-color: black;
 
   /* fonts */
@@ -207,4 +208,10 @@ main .section {
 main .section.light,
 main .section.highlight {
   background-color: var(--light-color);
+}
+
+/* add original style for demo */
+/* section metadata */
+main .section.dark {
+  background-color: var(--dark-color2);
 }

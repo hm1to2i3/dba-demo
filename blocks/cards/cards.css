@@ -32,10 +32,10 @@
 
 
 /* add original css for demo - table */
-table th, td {
+.cards table th, td {
 border: solid 1px #CCC
 }
 
-table th {
+.cards table th {
 background-color: #EEE;
 }

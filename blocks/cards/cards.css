@@ -29,3 +29,13 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
+
+/* add original css for demo - table */
+table th, td {
+border: solid 1px #CCC
+}
+
+table th {
+background-color: #EEE;
+}

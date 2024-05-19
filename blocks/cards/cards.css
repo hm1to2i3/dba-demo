@@ -29,13 +29,3 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
-
-
-/* add original css for demo - table */
-.cards table th, td {
-border: solid 1px #CCC
-}
-
-.cards table th {
-background-color: #EEE;
-}
